@@ -1,5 +1,12 @@
 #pragma once
 
 #include <string>
+#include <vector>
 
-std::string hello();
+using namespace std;
+
+vector<string>& print();
+
+vector<string>& sortStorage();
+
+vector<string>& addToStorage(string name);
