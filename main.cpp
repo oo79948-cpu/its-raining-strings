@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <algorithm>
 #include "src/raining.hpp"
 
 using namespace std;
